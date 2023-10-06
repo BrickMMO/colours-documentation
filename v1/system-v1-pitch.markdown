@@ -29,5 +29,4 @@ Application API will include the following API calls:
 | Method | Endpoint | Description |
 | ---------- | --------- | --------- |
 | GET | /api/colours | A list of colours. Returns: A list of all LEGO™ colours. Each colour will include ID, name, RGB, CMYK, transparency, BrickLink ID, and BrickLink name. |
-| POST | /api/convert | Converts a specified colour to a LEGO™ colour palette colour **Parameters**:colour (required): RGB, CMYK, or text colour **Returns**:
-A single colour including ID, name, RGB, CMYK, transparency, BrickLink ID, BrickLink name, a match distance.  |
+| POST | /api/convert | Converts a specified colour to a LEGO™ colour palette colour **Parameters**:colour (required): RGB, CMYK, or text colour **Returns**: A single colour including ID, name, RGB, CMYK, transparency, BrickLink ID, BrickLink name, a match distance.  |

@@ -7,14 +7,14 @@ This application will provide a series of tools related to the official LEGO™ 
 ## Front-End Features (Navdeep Kaur):
 
 Front end facing application will include the following features:
-    - Browse LEGO™ color palette
-    - Search for LEGO™ colors using color keywords
-    - Convert existing colors from text, CMYK, or RGB to the LEGO™ color palette.
+- Browse LEGO™ color palette
+- Search for LEGO™ colors using color keywords
+- Convert existing colors from text, CMYK, or RGB to the LEGO™ color palette.
 
 ## Back-End Features (Udip Mandora):
 Application will include a control panel to achieve the following: - Login to control panel
-    - Add, edit, and delete LEGOTM colors
-    - Import LEGO™ color palette from [ReBrickable API:](https://rebrickable.com/api/)
+- Add, edit, and delete LEGOTM colors
+- Import LEGO™ color palette from [ReBrickable API:](https://rebrickable.com/api/)
 
 ## Technology Stack:
 
@@ -31,13 +31,13 @@ The goal of this application is to change the colors from text, CMYK, or RGB to 
 
 ## User Story:
 1. User will land on home page 
-        a. Sign in option
+    * Sign in option
 2. Seeing random colors suggestion on home page (without sign in) 
 3. If user do sign-in, welcome message on home page
 4. Manage colors in user’s own account (Add, delete and update)
-        a. Add color
-        b. Edit Color
-        c. Update Color
+    * Add color
+    * Edit Color
+    * Update Color
 5. Search for colors by giving color name or rgb
 6. As an output, user will see list of colors
 7. Click on particular color and see the information in name, RGB and CMYK values 

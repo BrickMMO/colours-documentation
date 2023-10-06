@@ -61,7 +61,7 @@ The goal of this application is to change the colors from text, CMYK, or RGB to 
 - Having autocomplete in search funcitonality such as if a user search color which starts from **'R'**, user will have a list of all colors which starts from **'R'**.
 
 # Database Flows & Database Diagram:
-![flow chart diagram](/images/v1-flowchart.png)
+![flow chart diagram](/images/v1-flowchart-1.jpg)
 
 ## Challenges & Potenial Barriers:
 1. Fetching data from API

@@ -5,7 +5,10 @@ GitHub: https://github.com/codeadamca/brickmmo-colours
 
 
 Application Purpose:
+
 This application will provide a series of tools related to the official LEGO™ colour palette. This will include a small website for visitors to browse, search, and convert colours as well as an API for other BrickMMO applications to incorporate the LEGO ™ colour palette.
+
+![toptal website](/images/v1-toptal.png)
 
 ## Front-End:
 Front end facing application will include the following features:

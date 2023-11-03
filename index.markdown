@@ -1,12 +1,12 @@
-# template-about-markdown
+# Colours About
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-This is a template for `system-about` websites.
+This is a site related to the official LEGO™ colour palette.
 
 ![BrickMMO](images/brickmmo.png)
 
-This part of the `index.markdown` page should include a brief description of this system and links to the current frontend and backend.
+On the front-end the colours project will allow the user to browse the LEGO™ colour palette, search for LEGO™ colours using colour keywords and convert existing colours from text, CMYK, or RGB to the LEGO™ colour palette.
 
 - [System Frontend](https://brickmmo.com)
 - [System Backend](https://brickmmo.com)

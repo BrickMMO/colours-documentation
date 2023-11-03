@@ -10,15 +10,15 @@ This is a brief description of what was completed during version one.
 
 ### Related Links
 
-- [Version 1 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
-- [Version 1 Backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+- [Version 1 Frontend GitHub Repo](https://github.com/BrickMMO/colours-about)
+- [Version 1 Backend GitHub Repo](https://github.com/BrickMMO/colours-about)
 
 ### Documents
 
-- [Pitch (Markdown)](v1/system-v1-pitch)
-- [Pitch (PDF)](v1/system-v1-pitch.pdf)
-- [Requirements Document (Markdown)](v1/system-v1-requirements)
-- [Requirements Document (PDF)](v1/system-v1-requirements.pdf)
+- [Pitch (Markdown)](v1/colours-v1-pitch.markdown)
+- [Pitch (PDF)](v1/colours-phase-1-pitch.pdf)
+- [Requirements Document (Markdown)](v1/colours-v1-requirements.markdown)
+- [Requirements Document (PDF)](v1/colours-phase-1-requirements.pdf)
 
 ### Contributors
 

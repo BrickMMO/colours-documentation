@@ -22,6 +22,7 @@ During phase one a rough draft of a complete colour pallette tool was created.
 | | Name | Type | GitHub |
 | ------------------------------------- | ----------- | ------- | ----------------------------------------------------- |
 | ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
+| | Udip | Student | [https://contributions.brickmmo.com/students/udipmandora.html](https://contributions.brickmmo.com/students/udipmandora.html) |
 
 [&#10132; Back to About](/colours-about/)
 

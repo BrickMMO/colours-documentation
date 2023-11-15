@@ -1,0 +1,36 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
+## Version 2 - Second Draft
+
+Completed: November 2023
+
+During phase two a second draft of the colours tool will be created. 
+
+### Related Links
+
+- [Version 2 GitHub Repo](https://github.com/BrickMMO/colours-v2)
+
+### Process
+
+For students developing this project you may follow this process:
+
+- [Process (Markdown)](v2/colours-v2-process.markdown)
+
+### Documents
+
+- [Pitch (Markdown)](v1/colours-v1-pitch.markdown)
+- [Pitch (PDF)](v1/colours-phase-1-pitch.pdf)
+
+### Contributors
+
+| | Name | Type | GitHub |
+| ------------------------------------- | ----------- | ------- | ----------------------------------------------------- |
+| ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
+
+[&#10132; Back to About](/colours-about/)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>

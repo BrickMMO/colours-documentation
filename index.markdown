@@ -1,4 +1,4 @@
-# Colours About
+# colours-about
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 

@@ -2,14 +2,11 @@
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-This is a site related to the official LEGO™ colour palette.
+This website provides tools related to the official LEGO® colour palette.
 
-![BrickMMO](images/brickmmo.png)
+On the front-end the colours project will allow the user to browse the LEGO® colour palette, search for LEGO® colours using colour keywords and convert existing colours from text, CMYK, or RGB to the LEGO® colour palette.
 
-On the front-end the colours project will allow the user to browse the LEGO™ colour palette, search for LEGO™ colours using colour keywords and convert existing colours from text, CMYK, or RGB to the LEGO™ colour palette.
-
-- [System Frontend](https://brickmmo.com)
-- [System Backend](https://brickmmo.com)
+- [BrickMMO Colours](https://colours.brickmmo.com)
 
 ## [Version 1 - Initial Production](v1)
 

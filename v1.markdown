@@ -4,14 +4,11 @@
 
 Completed: December 2022
 
-This is a brief description of what was completed during version one.
-
-![Version 1 City](images/v1-city.jpg)
+During phase one a rough draft of a complete colour pallette tool was created. 
 
 ### Related Links
 
-- [Version 1 Frontend GitHub Repo](https://github.com/BrickMMO/colours-about)
-- [Version 1 Backend GitHub Repo](https://github.com/BrickMMO/colours-about)
+- [Version 1 GitHub Repo](https://github.com/BrickMMO/colours-v1)
 
 ### Documents
 
@@ -22,11 +19,11 @@ This is a brief description of what was completed during version one.
 
 ### Contributors
 
-|                                       | Name        | Type    | GitHub                                                |
+| | Name | Type | GitHub |
 | ------------------------------------- | ----------- | ------- | ----------------------------------------------------- |
 | ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
 
-[&#10132; Back to About](/template-about-markdown/)
+[&#10132; Back to About](/colours-about/)
 
 ---
 

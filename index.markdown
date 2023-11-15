@@ -8,9 +8,9 @@ On the front-end the colours project will allow the user to browse the LEGO® co
 
 - [BrickMMO Colours](https://colours.brickmmo.com)
 
-## [Version 1 - Initial Production](v1)
+## [Version 1 - Rough Draft](v1)
 
-## [Version 2 - Merge with Central Console](v2)
+## [Version 2 - Second Draft](v2)
 
 ---
 

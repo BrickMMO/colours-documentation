@@ -224,7 +224,7 @@ There is a home page named `index.php` that displays a list of the colours from 
 
     Create a file named `/api/colours.php`. This file will query all colours from the `colours` table and export them to JSON. Create a file named `/api/profile.php`. This file will need to be referenced as `/api/profile.php?id=1` and will return JSON of all available data for a single colour. 
 
-[&#10132; Back to V2](/colours-about/v2
+[&#10132; Back to V2](/colours-about/v2)
 
 ---
 

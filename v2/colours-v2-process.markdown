@@ -154,7 +154,7 @@ There is a home page named `index.php` that displays a list of the colours from 
 
 8. **Sample Brick Image**
 
-    You can add a sample brick by using the [Rebrickable]() media. For example, the following URL:
+    You can add a sample brick by using the [Rebrickable](https://rebrickable.com/downloads/) media. For example, the following URL:
     
     ```
     https://cdn.rebrickable.com/media/thumbs/parts/ldraw/4/3003.png/85x85p.png

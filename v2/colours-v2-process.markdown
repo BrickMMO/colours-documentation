@@ -212,7 +212,7 @@ There is a home page named `index.php` that displays a list of the colours from 
 
 11. **Apply Design**
 
-    Apply the designs from stop one!
+    Apply the designs from step one!
 
 12. **About Colours** 
 

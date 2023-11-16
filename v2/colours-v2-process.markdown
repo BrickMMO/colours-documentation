@@ -119,15 +119,15 @@ There is a home page named `index.php` that displays a list of the colours from 
 
     Open up phpMyAdmin and your tables should now be full of records.
 
-> [!TIP]  
-> Steps six through thirteen have a project task in GitHub. Make sure to assign these tasks when starting. And then use these tasks to create your branch and a pull request when done.
+    > [!TIP]  
+    > Steps six through thirteen have a project task in GitHub. Make sure to assign these tasks when starting. And then use these tasks to create your branch and a pull request when done.
 
 6. **Home Page**
     
     Create the home page. Review the [Rebrickable API](https://rebrickable.com/api/v3/docs/) and the `colours` and `externals` tables to see what data is avaiable to put on the home page. Make these changes to the `/index.php` file. Don't worry too much about the design yet. 
 
-> [!NOTE]  
-> At this point do not worry about the design. Just use basic HTML, black text, and Times New Roman. No CSS needed. 
+    > [!NOTE]  
+    > At this point do not worry about the design. Just use basic HTML, black text, and Times New Roman. No CSS needed. 
 
 7. **Profile Page**
 

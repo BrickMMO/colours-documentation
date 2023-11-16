@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 # Requirements Document
 
 ## Capstone Plan:

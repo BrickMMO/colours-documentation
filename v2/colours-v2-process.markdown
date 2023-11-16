@@ -120,7 +120,7 @@ There is a home page named `index.php` that displays a list of the colours from 
     Open up phpMyAdmin and your tables should now be full of records.
 
 > [!TIP]  
-> Steps six through twelve have a project task in GitHub. Make sure to assign these tasks when starting. And then use these tasks to create your branch and a pull request when done.
+> Steps six through thirteen have a project task in GitHub. Make sure to assign these tasks when starting. And then use these tasks to create your branch and a pull request when done.
 
 6. **Home Page**
     
@@ -195,7 +195,7 @@ There is a home page named `index.php` that displays a list of the colours from 
 
     Output the three colours using JSON.
 
-11. **Conversion Tool**
+10. **Conversion Tool**
 
     The last page needs to use the `/api/convert.php` file to convert a provided colour to the closet LEGO® pallette colour. This process will follow these steps:
 
@@ -210,15 +210,15 @@ There is a home page named `index.php` that displays a list of the colours from 
 
     Add JavaScript to validate the colour entered into the form. On submit make an API call to `/api/convert.php`. PParse the JSON response and display the top three colours. 
 
-12. **Apply Design**
+11. **Apply Design**
 
     Apply the designs from stop one!
 
-13. **About Colours** 
+12. **About Colours** 
 
     Update the [colours-about](https://github.com/BrickMMO/colours-about) Markdown! Add your names to the `v2.markdown` page.
 
-14. **Colours API**
+13. **Colours API**
 
     These additional API calls will not be needed for this application, but may be useful for other BrickMMO applications. 
 

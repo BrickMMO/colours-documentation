@@ -119,8 +119,8 @@ There is a home page named `index.php` that displays a list of the colours from 
     
     Create the home page. Review the [Rebrickable API](https://rebrickable.com/api/v3/docs/) and the `colours` and `externals` tables to see what data is avaiable to put on the home page. Make these changes to the `/index.php` file. Don't worry too much about the design yet. 
 
-> [!NOTE]  
-> At this point do not worry about the design. Just use basic HTML, black text, and Times New Roman. No CSS needed. 
+    > [!NOTE]  
+    > At this point do not worry about the design. Just use basic HTML, black text, and Times New Roman. No CSS needed. 
 
 7. **Profile Page**
 

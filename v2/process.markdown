@@ -115,6 +115,9 @@ There is a home page named `index.php` that displays a list of the colours from 
 
     Open up phpMyAdmin and your tables should now be full of records.
 
+> [!TIP]  
+> Steps six through twelve have a project task in GitHub. Make sure to assign these tasks when starting. And then use these tasks to create your branch and a pull request when done.
+
 6. **Home Page**
     
     Create the home page. Review the [Rebrickable API](https://rebrickable.com/api/v3/docs/) and the `colours` and `externals` tables to see what data is avaiable to put on the home page. Make these changes to the `/index.php` file. Don't worry too much about the design yet. 
@@ -143,7 +146,9 @@ There is a home page named `index.php` that displays a list of the colours from 
         - Sample of the colour (there is an example of this in `/index.php`)
         - Links to alternative sources (like [BrickLink](https://bricklink.com/), [BrickOwl](https://bricklink.com/), etc...)
 
-8. **Sample Brick**
+    You will need to write two `SELECT` queries to fetch as much information about the selected colour from the database. They will need to incorporate the `$_GET['id']` variable into the query. 
+
+8. **Sample Brick Image**
 
     You can add a sample brick by using the [Rebrickable]() media. For example, the following URL:
     
@@ -151,7 +156,7 @@ There is a home page named `index.php` that displays a list of the colours from 
     https://cdn.rebrickable.com/media/thumbs/parts/ldraw/4/3003.png/85x85p.png
     ```
 
-    Will display the following iage:
+    Will display the following image:
 
     ![Red 3001 Brick](https://cdn.rebrickable.com/media/thumbs/parts/ldraw/4/3003.png/85x85p.png)
 
@@ -182,7 +187,7 @@ There is a home page named `index.php` that displays a list of the colours from 
 
     Output the three colours using JSON.
 
-10. **Conversino Tool**
+10. **Conversion Tool**
 
     The last page needs to use the `/api.php` file to convert a provided colour to the closet LEGO® pallette colour. This process will follow these steps:
 
@@ -197,4 +202,10 @@ There is a home page named `index.php` that displays a list of the colours from 
 
     Add JavaScript to validate the colour entered into the form. On submit make an API call to `/api.php`. PParse the JSON response and display the top three colours. 
 
-11. Apply the designs from stop one!
+11. **Apply Design**
+
+    Apply the designs from stop one!
+
+12. **About Colours** 
+
+    Update the [colours-about](https://github.com/BrickMMO/colours-about) Markdown! Add your names to the `v2.markdown` page. 

@@ -71,10 +71,10 @@ There is a home page named `index.php` that displays a list of the colours from 
 
     The design style should mimic that of the [Passive Aggressive Password Machine](https://trypap.com/):
 
-        - Nice large fonts
-        - Simple layout
-        - Well spaced out
-        - Simple forms
+    - Nice large fonts
+    - Simple layout
+    - Well spaced out
+    - Simple forms
 
     This project will use [Bootstrap](https://getbootstrap.com/). Review the Bootstrap website and avalable components and incorporate these into your design. 
 
@@ -145,10 +145,10 @@ There is a home page named `index.php` that displays a list of the colours from 
 
     Add some of the following data:
 
-        - Colour Name
-        - RGB value
-        - Sample of the colour (there is an example of this in `/index.php`)
-        - Links to alternative sources (like [BrickLink](https://bricklink.com/), [BrickOwl](https://bricklink.com/), etc...)
+    - Colour Name
+    - RGB value
+    - Sample of the colour (there is an example of this in `/index.php`)
+    - Links to alternative sources (like [BrickLink](https://bricklink.com/), [BrickOwl](https://bricklink.com/), etc...)
 
     You will need to write two `SELECT` queries to fetch as much information about the selected colour from the database. They will need to incorporate the `$_GET['id']` variable into the query. 
 
@@ -166,10 +166,10 @@ There is a home page named `index.php` that displays a list of the colours from 
 
     The image URL consists of the following parts:
 
-        - Rebrickable media URL: `https://cdn.rebrickable.com/media/thumbs/parts/ldraw/`
-        - The colour ID using the `rebrickable_id` value from the `colours` table: `<?=$colour['rebrickable_id']?>`
-        - The LEGO® brick ID using, you can look these up at the [LEGO® Pick-a-Brick Store](https://www.lego.com/en-ca/pick-and-build/pick-a-brick)
-        - And the width and height of the image
+    - Rebrickable media URL: `https://cdn.rebrickable.com/media/thumbs/parts/ldraw/`
+    - The colour ID using the `rebrickable_id` value from the `colours` table: `<?=$colour['rebrickable_id']?>`
+    - The LEGO® brick ID using, you can look these up at the [LEGO® Pick-a-Brick Store](https://www.lego.com/en-ca/pick-and-build/pick-a-brick)
+    - And the width and height of the image
 
 9. **Conversion API**
 

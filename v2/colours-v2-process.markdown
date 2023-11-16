@@ -131,7 +131,7 @@ There is a home page named `index.php` that displays a list of the colours from 
 
 7. **Profile Page**
 
-    On the home page you will link each colour to `\profile.php?id=1`. The number one will be replaced with the `id` value form the colours table. It will look something like this:
+    On the home page you will link each colour to `/profile.php?id=1`. The number one will be replaced with the `id` value form the colours table. It will look something like this:
 
     ```php
     <?php while($colour = mysqli_fetch_assoc($result)): ?>
@@ -173,7 +173,9 @@ There is a home page named `index.php` that displays a list of the colours from 
 
 9. **Conversion API**
 
-    Create a file named `/api.php`. For now you can test this file by visiting [http://localhost:8888/api.php](http://localhost:8888/api.php) on a Mac or [http://localhost/api.php](http://localhost/api.php] on a PC. At this point it will be an empty page.
+    Create a folder named `/api`. All API files will be placed in this folder. 
+
+    Create a file named `/api/convert.php`. For now you can test this file by visiting [http://localhost:8888/api/convert.php](http://localhost:8888/api/convert.php) on a Mac or [http://localhost/api/convert.php](http://localhost/api/convert.php] on a PC. At this point it will be an empty page.
 
     Copy the `include` statements from one of your other PHP files. 
 
@@ -185,34 +187,42 @@ There is a home page named `index.php` that displays a list of the colours from 
     include('includes/functions.php');
     ```
 
-    Add `?colour=336699` to your URL. Just to test the colour URL variable, in the `\api.php` file, output the colour provided in the URL. You will need to use `$_GET`.
+    You will need to adjust these include statements to reference files on folder above the `/api` folder. 
+
+    Add `?colour=336699` to your URL. Just to test the colour URL variable, in the `/api/convert.php` file, output the colour provided in the URL. You will need to use `$_GET`.
 
     Add code that will convert the colour from the URL variableto the closest colour from the `colours` table. I would recommend incuding the three closest colours. **This is the hardest part!**
 
     Output the three colours using JSON.
 
-10. **Conversion Tool**
+11. **Conversion Tool**
 
-    The last page needs to use the `/api.php` file to convert a provided colour to the closet LEGO® pallette colour. This process will follow these steps:
+    The last page needs to use the `/api/convert.php` file to convert a provided colour to the closet LEGO® pallette colour. This process will follow these steps:
 
     1. The visitor will enter a colour name, RGB, or CMYK value into the form.
     2. The visitor will click submit.
-    3. JavaScript will make an API call to `\api.php?colour=336699`. This API call will return a JSON list of the closest colours.
+    3. JavaScript will make an API call to `/api/convert.php?colour=336699`. This API call will return a JSON list of the closest colours.
     4. JavaScript will then read the result and display the results. 
 
-    Create a page named `/convert.php`. Add a link on the home page to this new page. 
+    Create a page named `/api/convert.php`. Add a link on the home page to this new page. 
 
     Add the form to this page. 
 
-    Add JavaScript to validate the colour entered into the form. On submit make an API call to `/api.php`. PParse the JSON response and display the top three colours. 
+    Add JavaScript to validate the colour entered into the form. On submit make an API call to `/api/convert.php`. PParse the JSON response and display the top three colours. 
 
-11. **Apply Design**
+12. **Apply Design**
 
     Apply the designs from stop one!
 
-12. **About Colours** 
+13. **About Colours** 
 
-    Update the [colours-about](https://github.com/BrickMMO/colours-about) Markdown! Add your names to the `v2.markdown` page. 
+    Update the [colours-about](https://github.com/BrickMMO/colours-about) Markdown! Add your names to the `v2.markdown` page.
+
+14. **Colours API**
+
+    These additional API calls will not be needed for this application, but may be useful for other BrickMMO applications. 
+
+    Create a file named `/api/colours.php`. This file will query all colours from the `colours` table and export them to JSON. Create a file named `/api/profile.php`. This file will need to be referenced as `/api/profile.php?id=1` and will return JSON of all available data for a single colour. 
 
 [&#10132; Back to V2](/colours-about/v2
 

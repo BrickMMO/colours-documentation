@@ -11,6 +11,8 @@ This applciation includes a handful of tools to work with the LEGO® colour pale
 
 There is no backend for this project. All backend functionality in completed by running the import script. Once deployed, this script will run once a month using [CRON](https://en.wikipedia.org/wiki/Cron). This will be setup by your instructor when the website is done and deployed. 
 
+*** 
+
 ### Completed by Instructor
 
 The [colours-v2](https://github.com/BrickMMO/colours-v2) includes a basic PHP core also used in [flow-v1](https://github.com/BrickMMO/flow-v2) and [stop-start-continue-v1](https://github.com/BrickMMO/stop-start-continue-v1).
@@ -46,6 +48,8 @@ CREATE TABLE `externals` (
 There is an import script that imports a list of colours from the [Rebrickable API](https://rebrickable.com/api/v3/docs/) into the `colours` and `externals` tables. This file is located at `/import.php`.
 
 There is a home page named `index.php` that displays a list of the colours from the `colours` table.
+
+*** 
 
 ### Steps
 
@@ -209,3 +213,11 @@ There is a home page named `index.php` that displays a list of the colours from 
 12. **About Colours** 
 
     Update the [colours-about](https://github.com/BrickMMO/colours-about) Markdown! Add your names to the `v2.markdown` page. 
+
+[&#10132; Back to V2](/colours-about/v2
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>

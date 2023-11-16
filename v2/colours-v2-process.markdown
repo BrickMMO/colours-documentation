@@ -96,7 +96,7 @@ There is a home page named `index.php` that displays a list of the colours from 
 
     Clone the [colours-v2](https://github.com/BrickMMO/colours-v2) repo into your MAMP root folder (or point MAMP to your cloned directory). Restart the server if needed. 
 
-    Open up the `/env` file and change the database variables to `brickmmo_colours` and the MAMP defaults:
+    Copy the `/.env.sample` file amd name it `/.env`. Change the database variables to `brickmmo_colours` and the MAMP defaults:
 
     ```php
     DB_HOST=localhost

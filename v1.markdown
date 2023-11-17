@@ -20,10 +20,10 @@ During phase one a rough draft of a complete colour pallette tool was created.
 ### Contributors
 
 | | Name | Type | GitHub |
-| ------------------------------------- | ----------- | ------- | ----------------------------------------------------- |
-| ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
-| ![udipmandora](students/udipmandora.png) | Udip Mandora | Student | [https://contributions.brickmmo.com/students/udipmandora.html](https://contributions.brickmmo.com/students/udipmandora.html) |
-| ![navdeepcode](students/navdeepcode.png) | Navdeep Kaur | Student | [https://contributions.brickmmo.com/students/navdeepcode.html](https://contributions.brickmmo.com/students/navdeepcode.html) |
+| ------------------------------------- | ----------- | ------- | ----------- |
+| ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
+| ![udipmandora](students/udipmandora.png) | Udip Mandora | Student | [udipmandora](https://contributions.brickmmo.com/students/udipmandora.html) |
+| ![navdeepcode](students/navdeepcode.png) | Navdeep Kaur | Student | [navdeepcode](https://contributions.brickmmo.com/students/navdeepcode.html) |
 
 [&#10132; Back to About](/colours-about/)
 

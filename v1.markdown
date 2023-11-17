@@ -20,7 +20,7 @@ During phase one a rough draft of a complete colour pallette tool was created.
 ### Contributors
 
 | | Name | Type | Contributions |
-| ------------------------------------- | ----------- | ------- | ----------- |
+| - | - | - | - |
 | ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
 | ![udipmandora](students/udipmandora.png) | Udip Mandora | Student | [udipmandora](https://contributions.brickmmo.com/students/udipmandora) |
 | ![navdeepcode](students/navdeepcode.png) | Navdeep Kaur | Student | [navdeepcode](https://contributions.brickmmo.com/students/navdeepcode) |
